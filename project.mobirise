@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "Greedy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1398,7 +1398,7 @@
         }
       ]
     },
-    "page3.html": {
+    "Greedy.html": {
       "settings": {
         "meta_descr": "Privacy Policy for Сундучки",
         "title": "Greedy",
